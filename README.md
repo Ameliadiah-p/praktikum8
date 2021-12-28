@@ -17,6 +17,9 @@
 
 #### Berikut Flowchartnya
 
+![flowchart](https://user-images.githubusercontent.com/92660371/147591173-31a6f1fd-46e2-41ee-9718-2afce257f1be.jpg)
+
+
 ''' Python
 
     from os import system
@@ -177,4 +180,20 @@
     elif pilih ==5 :
             exit()
 * diatas adalah program untuk keluar atau mengakhiri proggram
+
+#### Berikut Program Ketika Dijalankan
+
+![Menu Aplikasi](https://user-images.githubusercontent.com/92660371/147590924-5b3a9cb1-4f78-4ad1-a27f-3973fd99003e.png)
+
+* diatas adalah tampilan menu ketika dijalankan
+
+![Input Data Mahasiswa](https://user-images.githubusercontent.com/92660371/147591085-7d9f9898-f3d4-405d-aed8-59bb0c08ba3f.png)
+
+* diatas tampilan ketika memasukan no 1, apabila kita melanjutkan y maka akan melanjutkan dan menambahkan data, sedangkan jika kita melanjutkan T maka kita akan di arahkan ke menu utama
+
+![Data Mahasiswa](https://user-images.githubusercontent.com/92660371/147591108-32a92d42-a0d0-4070-8d88-1dd274b279fe.png)
+
+* diatas adalah tampilan, menampilkan keseluruhan data yang sudah disimpan
+
+#### Sekian Terima Kasih
     
